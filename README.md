@@ -6,7 +6,7 @@
 ### Atualmente apredendo Python 🐍
 
 ### Jogo favorito: Ghost of Tsushima 🎮 
-<br></br>
+<br>
 *"Nunca fica mais fácil. Você só fica melhor."*
 
 
