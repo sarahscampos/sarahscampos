@@ -3,7 +3,7 @@
 ### Sou estudante de ciência da computação e preciso me lembrar de não estudar 100 linguagens ao mesmo tempo 😁
 <img align="right" alt="sarah gif" height="200" width="200" src="https://cdn.discordapp.com/attachments/1124186836328251413/1124187689193844747/download20230605004751.gif">
 
-### Atualmente apredendo Python 🐍
+### Atualmente aprendendo Python 🐍
 
 ### Jogo favorito: Ghost of Tsushima 🎮 
 <br>
