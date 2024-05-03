@@ -26,11 +26,10 @@
     <img align='center' alt='SarahC' height=30 weidth=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg'/> 
     <img align='center' alt='SarahJAVA' height=30 weidth=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'/> 
   </div>
-  <br>
+
   <div style='display: inline_block' align='center'><br>
-    <a href='https://www.linkedin.com/in/sarah-campos-579b3a26a/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-    <a href='sarahstephanycampos@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
-    
+    <a href='https://www.linkedin.com/in/sarah-campos-579b3a26a/' target='_blank' ><img align='center' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+    <a href='sarahstephanycampos@gmail.com' target='_blank' ><img align='center' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
   </div>
   </div>
   
