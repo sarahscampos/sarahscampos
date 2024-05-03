@@ -9,7 +9,7 @@
 <br>
 
   <img src='https://github.com/sarahscampos/sarahscampos/assets/74733887/bfdacf87-e934-49bf-a9f7-b35febd62dfa' width=400 align='left'/>
-
+  <div align='right'>
   <div align='center'>
     
   [![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahscampos&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/sarahscampos/github-readme-stats)
@@ -31,6 +31,7 @@
     <a href='https://www.linkedin.com/in/sarah-campos-579b3a26a/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
     <a href='sarahstephanycampos@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
     
+  </div>
   </div>
   
   ##
