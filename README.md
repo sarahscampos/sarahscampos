@@ -8,7 +8,7 @@
 
 <br>
 
-  <img src='https://github.com/sarahscampos/sarahscampos/assets/74733887/bfdacf87-e934-49bf-a9f7-b35febd62dfa' width=400 align='left'/>
+  <img src='https://github.com/sarahscampos/sarahscampos/assets/74733887/bfdacf87-e934-49bf-a9f7-b35febd62dfa' width=300 align='left'/>
   <div align='right'>
   <div align='center'>
     
