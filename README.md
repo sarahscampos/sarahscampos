@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=986DDA&random=false&width=435&lines=Oi!+Seja+bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
-##
 
 ### Sou estudante de ciência da computação e preciso me lembrar de não estudar 100 linguagens ao mesmo tempo 
 
