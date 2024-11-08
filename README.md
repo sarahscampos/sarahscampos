@@ -5,8 +5,7 @@
 
 <br>
 
-  <img src='https://github.com/sarahscampos/sarahscampos/assets/74733887/bfdacf87-e934-49bf-a9f7-b35febd62dfa' width=300 align="left"/>
-  <div align="right">
+  
   <div align="center">
     
   [![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahscampos&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/sarahscampos/github-readme-stats)
@@ -29,7 +28,7 @@
     <a href='mailto:sarahstephanycampos@gmail.com' target= "_blank" ><img align="center" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
     
   </div>
-  </div>
+ 
   
   ##
 
