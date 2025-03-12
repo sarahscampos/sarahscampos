@@ -29,7 +29,7 @@ Exploradora do mundo de desenvolvimento front-end compartilhando meus projetos e
 ##
 **Deseja entrar em contato comigo? Me envie uma mensagem:**
 <div>
-  <a href="https://www.linkedin.com/in/sarah-campos-dev/" target= "_blank" ><img align="center" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+  <a href="https://www.linkedin.com/in/sarah-campos-cs/" target= "_blank" ><img align="center" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   <a href='mailto:sarahstephanycampos2@gmail.com' target= "_blank" ><img align="center" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a> 
 </div>
  
