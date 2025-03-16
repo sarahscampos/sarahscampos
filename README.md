@@ -1,7 +1,7 @@
 ### Oi! Bem-vindo ao meu perfil =)
 ##
 Sou estudante de Ciência da Computação no Cefet/RJ, atualmente no 5° período.\
-Exploradora do mundo de desenvolvimento front-end compartilhando meus projetos e aprendizados por aqui \o/
+Compartilhando meus projetos e aprendizados por aqui \o/
 <br>
 
   
