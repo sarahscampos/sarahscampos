@@ -12,19 +12,19 @@ Compartilhando meus projetos e aprendizados por aqui \o/
   </div>
 
   <div style='display: inline_block' align="center"><br>
-    <img align="center" alt='SarahHTML' height=30 weidth=40 src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>  
-    <img align="center" alt='SarahCSS' height=30 weidth=40 src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/> 
-    <img align="center" alt='SarahJS' height=30 weidth=40 src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/> 
-    <img align="center" alt='SarahSASS' height=30 weidth=40 src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/>
-    <img align="center" alt='SarahTailwind' height=30 weidth=40 src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
-  </div>
-  <div style='display: inline_block' align="center"><br>
-    <img align="center" alt='SarahREACT' height=30 weidth=40 src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/> 
-    <img align="center" alt='SarahFIGMA' height=30 weidth=40 src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/> 
-    <img align="center" alt='SarahC' height=30 weidth=40 src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'/> 
-    <img align="center" alt='SarahJAVA' height=30 weidth=40 src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'/> 
-    <img align="center" alt='SarahGit' height=30 weidth=40 src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/> 
-  </div>
+  <img align="center" alt="Python" height=30 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="R" height=30 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img align="center" alt="SQL" height=30 src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="center" alt="Excel" height=30 src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img align="center" alt="Power BI" height=30 src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img align="center" alt="Looker Studio" height=30 src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+</div>
+<div style='display: inline_block' align="center"><br>
+  <img align="center" alt="C" height=30 src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img align="center" alt="Java" height=30 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="Git" height=30 src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
 
 ##
 **Deseja entrar em contato comigo? Me envie uma mensagem:**
