@@ -1,6 +1,6 @@
 ### Oi! Bem-vindo ao meu perfil =)
 ##
-Sou estudante de Ciência da Computação no Cefet/RJ, atualmente no 5° período.\
+Sou estudante de Ciência da Computação no Cefet/RJ.\
 Compartilhando meus projetos e aprendizados por aqui \o/
 <br>
 
