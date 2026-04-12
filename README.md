@@ -7,7 +7,7 @@ Compartilhando meus projetos e aprendizados por aqui \o/
   
   <div align="center">
     
-  [![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahscampos&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/sarahscampos/github-readme-stats)
+  [![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sarahscampos&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/sarahscampos)
   
   </div>
 
